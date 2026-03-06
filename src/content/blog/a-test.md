@@ -7,29 +7,7 @@ tags:
 draft: true
 updatedDate: '2026-03-06'
 ---
-## This is a test
-Of writingdesk to see whether or not it works as intended.
-
-_I like italics_
-
-~nevermind~
-
-[this is a link](https://google.com)
-
-### This is not so important
-
-#### Even less so
-
-##### HELP ME
-
-**My grocery list**
-
-1. Boogers
-1. Kleenexes for booger holding
-1. Clean underpantaloons
-1. Snasal Scurbins
-
- * one
- * two
- * three
-    * tada?
+Using this post i intend to say what to expect in future posts and when
+Most of my posts will be based on writing . such as release dates , the book i’m making , character plans and lore . any ways i’m actually making a sci-fi book 
+The main character lives on mars some things still have yet to be figured out . such as the villain, how well mars has been terraformed and aliens / space fauna.
+Since I have finished that subject I'm going to start dates of posts, a weekly Thursday post , posts on days before holidays and on the two national donut days for no reason at all.
