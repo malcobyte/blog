@@ -1,5 +1,5 @@
 ---
-title: A Test
+title: Welcome
 description: Just a test
 pubDate: '2026-03-06'
 tags:
