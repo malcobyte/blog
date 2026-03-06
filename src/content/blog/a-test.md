@@ -14,7 +14,7 @@ _I like italics_
 
 ~nevermind~
 
-[link]()
+[this is a link](https://google.com)
 
 ### This is not so important
 
