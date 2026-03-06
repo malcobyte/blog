@@ -4,7 +4,7 @@ description: My first post
 pubDate: '2026-03-06'
 tags:
   - testing
-draft: true
+draft: false
 updatedDate: '2026-03-06'
 ---
 Using this post i intend to say what to expect in future posts and when
